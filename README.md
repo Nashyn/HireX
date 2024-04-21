@@ -57,7 +57,7 @@ The frontend of HireX is built with modern web technologies. To get it up and ru
    ```
 
 2. Start the frontend application:
-   ```
+   ```b
    npm start
    ```
    This will launch the HireX frontend on http://localhost:3000.
