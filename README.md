@@ -66,8 +66,9 @@ The frontend of HireX is built with modern web technologies. To get it up and ru
 The backend is organized into different modules for various functionalities. To set up the backend services, perform the following:
 
 Navigate to the desired backend module directory (e.g., code-assessment, hire-x, video-interview):
-bash
+```
 cd backend/<module-name>
+```
 Setup each module according to the specific instructions provided in its respective README file.
 
 ## Usage
