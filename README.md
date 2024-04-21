@@ -51,7 +51,7 @@ Before setting up your instance of HireX, you'll need the following:
 The frontend of HireX is built with modern web technologies. To get it up and running on your local machine, follow these steps:
 
 1. Navigate to the `frontend` directory:
-   ```bash
+   ```
    cd frontend
    npm install
    ```
